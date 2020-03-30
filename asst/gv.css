@@ -16,3 +16,7 @@ display: block;margin: 3px auto;text-align: center;}
 /*.w-100{width:100%!important}.h-25{height:25%!important}.h-50{height:50%!important}.h-75{height:75%!important}*/
 
 .navbar-collapse {}
+
+.about {color: #FFF; padding: 10px; /*text-align: center; margin: 0 50px;*/}
+/* this needs to be responsive for smaller views so need to find where the smaller views are and they are on this sorta child theme */
+.about li {list-style: none;}
